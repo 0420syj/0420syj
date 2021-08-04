@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there 👋
+
+### About Me
+Notion : https://bit.ly/3jo98gI
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=0420syj&show_icons=true&hide=issues&count_private=true&theme=vue" height="165"/>

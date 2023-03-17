@@ -1,26 +1,28 @@
-## Hi there 👋
+<details> 
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
 
-### About Me
-My Portfolio(Notion) : -
+  <h3>🔥 Streak Stats</h3>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0420syj&show_icons=true&hide=issues&count_private=true&theme=vue" height="165"/>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0420syj&layout=compact&hide=SCSS" />
-</a>
+  <!-- GitHub Readme Streak Stats - https://github.com/0420syj/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/0420syj/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="0420syj's streak" src="https://streak-stats.demolab.com/?user=0420syj&theme=monokai-metallian&hide_border=true"/>
+    </a>
+    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  </p>
 
-<!--
-**0420syj/0420syj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h3>💻 GitHub Profile Stats</h3>
 
-Here are some ideas to get you started:
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="0420syj's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=0420syj&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="0420syj's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=0420syj&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="0420syj's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=0420syj&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+</details>

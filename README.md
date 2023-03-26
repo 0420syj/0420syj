@@ -1,3 +1,8 @@
+### Hi there 👋
+* 👂 My name is **Wan Sim**
+* 🔭 I’m currently working on [Vinami](https://github.com/0420syj/vinami), just for fun :)
+* 🌱 I’m currently learning Web Front-End Development
+
 <details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 

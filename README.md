@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👂 My name is **Wan Sim**
-- 🌱 I’m currently studying Web Front-End Development
+- 🌱 I’m currently studying Web Development
 - 🔭 I’m currently working on [Vinami](https://github.com/0420syj/vinami), and [Vinami Backend](https://github.com/0420syj/vinami-backend) just for fun :)
 - 📒 Chkeck my blog [here](https://0420syj.github.io)
 

@@ -3,7 +3,7 @@
 - 👂 My name is **Wan Sim**
 - 🌱 I’m currently studying Web Development
 - 🔭 I’m currently working on [Vinami](https://github.com/0420syj/vinami), and [Vinami Backend](https://github.com/0420syj/vinami-backend) just for fun :)
-- 📒 Chkeck my blog [here](https://0420syj.github.io)
+- 📒 Check my blog [here](https://0420syj.github.io)
 
 <details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
